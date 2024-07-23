@@ -1,7 +1,11 @@
 # [우리 FISA 2주차 미니 프로젝트] ELK 스택 구축🔥
 
-### 개발팀원🌻
-- 최영하, 김상민, 박웅빈, 구동길
+---
+### 개발팀원👏
+
+|<img src="https://avatars.githubusercontent.com/u/64997345?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/79312705?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/100770130?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/127733525?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|[@ChoiYoungHa](https://github.com/ChoiYoungHa)|[@isshomin](https://github.com/isshomin)|[@Ungbbi](https://github.com/Ungbbi)|[@dkac0012](https://github.com/dkac0012)|
 ---
 
 ### 학습목적✏️

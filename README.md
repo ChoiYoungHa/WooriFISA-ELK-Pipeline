@@ -39,7 +39,7 @@
 - $ source ~/.profile
 
 ### 3. pipline.conf 설정
-
+ 
 <img width="813" alt="스크린샷 2024-07-20 오후 4 32 14" src="https://github.com/user-attachments/assets/2f80cd2b-9858-4e84-9249-3bbffd64202f">
 
 - Filebeat에서 읽은 데이터를 전처리합니다.

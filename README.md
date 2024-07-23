@@ -14,7 +14,7 @@
 - FileBeat -> Logstash -> Elasticsearch -> Kibana 데이터 파이프라인을 구축해본다.
 - 데이터 수집, 전처리, 시각화를 경험해본다.
 
-## Virsual Box Ubuntu 환경에서 ELK 스택 구축하기
+## Virsual Box Ubuntu 환경에서 ELK 스택 구축하기🤣
 
 
 ### 1. Ubuntu 시스템 환경에 맞는 ELK 파일 다운로드

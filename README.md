@@ -13,7 +13,24 @@
 - Docker 기술을 사용하기 전 리눅스 환경과 conf, yml 설정 파일을 직접 다뤄보며 리눅스 환경에 익숙해진다.
 - FileBeat -> Logstash -> Elasticsearch -> Kibana 데이터 파이프라인을 구축해본다.
 - 데이터 수집, 전처리, 시각화를 경험해본다.
+## OverView
 
+- **Ubuntu 환경에서 ELK Stack을 설치 및 실행하려 하며, 파이프라인을 구축하는 것이 이번 프로젝트의 목표입니다.**
+    - Window 환경에서는 이미 완료가 되었으나 Window 또한 기재하였습니다.
+    - ELK Stack 의 버전은 7.11.1 로 진행하였습니다.
+- **Pipeline**
+    1. csv 파일을 통해 데이터를 얻을 것이며 csv 파일은 우분투 로컬 저장소 내에 있습니다.
+    2. Filebeat이 csv파일을 통해 데이터를 수집하고 logstash로 데이터 전송 (filebeat.yml 수정)
+    3. Logstash 는 수신한 데이터를  *.conf 파일을 통해 전처리 수행 후 ElasticSearch로 데이터 전송
+    4. Kibana는 ElasticSearch와 연동하여 데이터를 집계하여 시각화 할 수 있습니다.
+    
+- **설치환경**
+    - Window
+    - Ubuntu 22.04 LTS  on VM virtualBox )
+    
+- 실행순서
+    - Elasticserarch → logstash → filebeat
+  
 ## Virsual Box Ubuntu 환경에서 ELK 스택 구축하기🤣
 
 

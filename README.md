@@ -13,6 +13,7 @@
 - Docker 기술을 사용하기 전 리눅스 환경과 conf, yml 설정 파일을 직접 다뤄보며 리눅스 환경에 익숙해진다.
 - FileBeat -> Logstash -> Elasticsearch -> Kibana 데이터 파이프라인을 구축해본다.
 - 데이터 수집, 전처리, 시각화를 경험해본다.
+- 은행 데이터를 ELK스택을 통해 검색 및 시각화하는 것을 목표로 한다.
 ## OverView
 
 - **Ubuntu 환경에서 ELK Stack을 설치 및 실행하려 하며, 파이프라인을 구축하는 것이 이번 프로젝트의 목표입니다.**
@@ -31,7 +32,7 @@
 - 실행순서
     - Elasticserarch → logstash → filebeat
   
-## Virsual Box Ubuntu 환경에서 ELK 스택 구축하기🤣
+## Virsual Box Ubuntu 환경에서 ELK 스택 구축하기🔥
 
 
 ### 1. Ubuntu 시스템 환경에 맞는 ELK 파일 다운로드
